@@ -40,9 +40,9 @@ Users can add, edit, delete, filter, and save items — even after refreshing th
 **🖼 Screenshots**
 
 ### 🧼 Empty State
-![Empty State](image/screenshot-empty.png)
+![Empty State](image/ss-empty.png)
 
 ### 🛍 Filled List
-![Filled List](image/screenshot-filled.png)
+![Filled List](image/ss-filled.png)
 
 ---
